@@ -1,0 +1,33 @@
+15: Short low pass inside the box, right to left
+3: Short low pass inside the box, left to right
+12: High and long cross, mostly from corners, from the right flank final third.
+5: Medium-length cross from the left flank final third
+27: Very long, direct and straight through ball from own half
+4: High cross from left side corner
+6: Medium-length cross from left flank middle third
+30: Short pass from near the middle of the pitch, followed by long-shot or solo play goal
+25: Short ground pass from just outside the box ending right side of 6-yard box
+2
+22
+20
+9
+32
+11
+33
+23
+19
+8
+14
+31
+26
+1
+10
+21
+18
+17
+29
+7
+24
+16
+28
+13
