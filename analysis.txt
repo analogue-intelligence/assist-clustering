@@ -1,33 +1,37 @@
-15: Short low pass inside the box, right to left
-3: Short low pass inside the box, left to right
-12: High and long cross, mostly from corners, from the right flank final third.
-5: Medium-length cross from the left flank final third
-27: Very long, direct and straight through ball from own half
-4: High cross from left side corner
-6: Medium-length cross from left flank middle third
-30: Short pass from near the middle of the pitch, followed by long-shot or solo play goal
-25: Short ground pass from just outside the box ending right side of 6-yard box
-2
-22
-20
-9
-32
-11
-33
-23
-19
-8
-14
-31
-26
-1
-10
-21
-18
-17
-29
-7
-24
-16
-28
-13
+15: Short low pass inside the box, right to left H
+3: Short low pass inside the box, left to right H
+12: High and long cross, mostly from corners, from the right flank final third. H
+5: Medium-length cross from the left flank final third H
+27: Very long, direct and straight through ball from own half V
+4: High cross from left side corner H
+6: Medium-length cross from left flank middle third D
+30: Short pass from near the middle of the pitch, followed by long-shot or solo play goal D
+25: Medium length ground pass from start of final third ending right side of the box V
+2: Short through ball from just outside the box to left corner of six yard box V
+22: Short through ball from left side of the outside of the box, into the penalty area D
+20: Straight medium-length ground through ball, from start of final third to just inside the box V
+9: Medium-length ground pass from left to right, just outside the box D
+32: Medium-length ground pass, from right to left, just outside the box D
+11: Short ground pass into left side of the box D
+33: Short ground pass, from middle of the pitch into start of final third D
+23: Through ball from second third to right side of the box, from counter V
+19: Short straight ground pass, from edge of the D to right side of six yard box V
+8: Long through ball from left of beginning of final third to edge of right side of box D
+14: Very short pass, right to left just outside the box H
+31: Medium length ground pass, from middle of the pitch to right side of start of final third D
+26: Long and high pass, from middle of the pitch into penalty area V
+1: Long ground through ball, from left of start of final third to left side of 6 yard box V
+10: Short ground pass into the left corner of the box V
+21: Medium length through ball from right side of start of final third to right side of 6-yard box D
+18: Very short ground pass at right edge of the box V
+17: 
+29: 
+7: 
+24: 
+16: 
+28: 
+13: 
+
+H = horizontal (parallel to goal line)
+V = vertical (direct, straight pass)
+D = diagonal (anything in between)
