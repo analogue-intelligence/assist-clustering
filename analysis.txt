@@ -15,7 +15,7 @@
 11: Short ground pass into left side of the box D
 33: Short ground pass, from middle of the pitch into start of final third D
 23: Through ball from second third to right side of the box, from counter V
-19: Short straight ground pass, from edge of the D to right side of six yard box V
+19: Short straight ground through ball, from edge of the D to right side of six yard box V
 8: Long through ball from left of beginning of final third to edge of right side of box D
 14: Very short pass, right to left just outside the box H
 31: Medium length ground pass, from middle of the pitch to right side of start of final third D
@@ -24,14 +24,57 @@
 10: Short ground pass into the left corner of the box V
 21: Medium length through ball from right side of start of final third to right side of 6-yard box D
 18: Very short ground pass at right edge of the box V
-17: 
-29: 
-7: 
-24: 
-16: 
-28: 
-13: 
+17: Medium-length ground pass from start of final third to right corner of the box D
+29: Long ground switch from middle of the pitch to left start of final third D
+7: Medium length ground pass, from edge of the D to edge of 6 yard box, from counter D
+24: Short straight ground pass, from edge of the D to right side of penalty area D
+16: Medium length ground pass, from start of final third to center edge of the box from goal-kick V
+28: Short ground through ball from start of final third to middle of the edge of the box V
+13: High pass from right start of final third to edge of six yard box D
+
+
+Pass directions: 
 
 H = horizontal (parallel to goal line)
 V = vertical (direct, straight pass)
 D = diagonal (anything in between)
+
+Pass start and end locations: 
+
+A = Own half
+B = Between center of the pitch and start of final third
+C = Final third up until the box
+D = Box, without 6 yard box
+E = Six yard box
+
+1 = extreme left
+2 = middle-left
+3 = middle-right
+4 = extreme right
+
+Example: B1D3 = from extreme left side of middle to start of final third, to right side of the box
+
+Pass type:
+
+P = normal pass
+T = through ball
+C = cross / switch
+
+1: Ground pass
+2: High Pass
+
+Example: C2-E4D3 = high cross from the right corner, headed from the middle-right side of the box
+
+
+Pass directions: 
+
+H = horizontal (parallel to goal line)
+V = vertical (direct, straight pass)
+D = diagonal (anything in between)
+
+Example: C2-E4D3-H = high cross from the right corner, headed from the middle-right side of the box (horizontal pass, parallel to goal line)
+
+
+Summary of legend: (Pass type + height) - (Pass start and end locations) - (Pass direction)
+
+
