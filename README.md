@@ -8,6 +8,17 @@
 - **Statistical Analysis:** Statistical comparisons are made between Leicester City and league averages.
 - **Visualization:** All plots and charts are generated in `main.ipynb` and saved in `figures/`.
 
+## Required packages
+pandas	1.3.0	(Data manipulation and analysis)
+numpy	1.21.0	(Numerical operations)
+matplotlib	3.4.0	(Plotting and visualization)
+seaborn	0.11.0	(Statistical data visualization)
+scikit-learn	0.24.0	(Clustering and machine learning utilities)
+statsbombpy	1.14.0	(Accessing StatsBomb open data)
+scipy	1.7.0	Statistical tests (t-test, chi-square, etc.)
+tqdm	4.60.0	Progress bars (optional, for loops)
+jupyter	1.0.0	(Running notebooks)
+mplsoccer 1.2.6 (Visualizing football pitches)
 ## How to Reproduce
 
 1. **Clone the repository** and ensure you have Python 3.x, Jupyter Notebook, and the required packages (`pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, etc.).
