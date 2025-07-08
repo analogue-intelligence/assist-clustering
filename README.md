@@ -23,7 +23,7 @@
 ## How to Reproduce
 
 1. **Clone the repository** and ensure you have Python 3.x, Jupyter Notebook, and the required packages (`pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, etc.).
-2. **Open, and optionally re-run** `main.ipynb` to reproduce all analysis and figures.
+2. **Open, and optionally re-run** `StatsbombPL.ipynb` to reproduce all analysis and figures.
 
 ## Figures
 
